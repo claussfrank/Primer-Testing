@@ -1,5 +1,5 @@
 var assert = require('assert');
-var math.suma = require('../app.js');
+var math = require('../app.js');
 
 
 
